@@ -1,0 +1,28 @@
+{
+  "name": "snacklishreborn",
+  "version": "1.0.0",
+  "description": "testing snacklish",
+  "main": "test.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "pg": "^8.3.2"
+  },
+  "engines": {
+    "node": "12.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
