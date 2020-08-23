@@ -33,7 +33,5 @@ function getNews(url) {
     });
 }
 
-// console.log(process.env.SHREK);
+console.log(process.env.SHREK);
 // getNews(URL);
-process.env.testthing = "TEST";
-console.log(process.env.testthing);
